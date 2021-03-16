@@ -28,7 +28,7 @@ window.$docsify = {
   },
   formatUpdated: '{MM}/{DD} {HH}:{mm}',
   plugins: [
-    EditOnGithubPlugin.create('https://github.com/bjdehang/docs.onexkit.com/blob/master/docs/', null, path => {
+    EditOnGithubPlugin.create('https://github.com/bjdehang/docs.onexkit.com', null, path => {
       if (path.indexOf('cn/') === 0) {
         return '在 GitHub 上编辑';
       } else {
