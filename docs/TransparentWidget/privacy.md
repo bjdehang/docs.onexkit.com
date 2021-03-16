@@ -22,14 +22,15 @@ In any case other than the above, without your prior consent，we will not share
 # Content of Third Parties
 While using the software and services, certain third parties may enable you to provide content to them, in the form of gadgets, buttons, websites, advertising links etc. We consider it as third-party contents and services, which are subject to their privacy policies. We would not review and guarantee such third-party contents and services. Before you using or accessing such third-party contents and services, we recommend that you read the terms or conditions of their privacy policies. You shall be aware of using them and expressly relieve us from any and all liability arising from your use of such Third Party Content and Services.
 You can find out how the third parties use your data through the following links:
-Google: https://policies.google.com/technologies/partner-sites
-Facebook: https://www.facebook.com/about/privacy/update
-Mopub: https://www.mopub.com/legal/privacy/
-AppsFlyer: https://www.appsflyer.com/privacy-policy/
-Google Analytics for Firebase: https://firebase.google.com/policies/analytics
-unity: http://unity3d.com/legal/privacy-policy
-Applovin: https://www.applovin.com/privacy-cn/
-Vungle: https://vungle.com/privacy/
+
+- Google: https://policies.google.com/technologies/partner-sites
+- Facebook: https://www.facebook.com/about/privacy/update
+- Mopub: https://www.mopub.com/legal/privacy/
+- AppsFlyer: https://www.appsflyer.com/privacy-policy/
+- Google Analytics for Firebase: https://firebase.google.com/policies/analytics
+- unity: http://unity3d.com/legal/privacy-policy
+- Applovin: https://www.applovin.com/privacy-cn/
+- Vungle: https://vungle.com/privacy/
 
 # Information Security and Data Rights
 We are committed to protecting the security of your personal information. We use a variety of security technologies and procedures to help protect your personal information from unauthorized access, use, or disclosure. We will only keep your personal information for as long as necessary and in any event in relation to personal information collected by us through the Software and Services. We will keep the information we collect in accordance with this Privacy Policy to achieve our business and/or operational purposes or to comply with legal requirements. We have implemented safeguard procedures to protect your information according to industrial standards, and we have restricted access to your information on the server, which is under encryption protection.
@@ -48,5 +49,5 @@ We pay close attention to our intellectual property protection. All content, ima
 You agree to use the Software and Services only for lawful purposes. We may, without incurring any liability to you, terminate access by you or suspend any access to all or part of the Software and Services, without notice, for any conduct by us, in our sole discretion, believes is in violation of any applicable law or this privacy policy, or is harmful to the interests of another user, a third-party, a sponsor, a licensor, a service provider, a merchant.
 
 # Contact Us
-If you have any question or comment about this Policy, you can contact us by email: hi@onexkit.coms 
+If you have any question or comment about this Policy, you can contact us by email: hi@onexkit.com 
  
