@@ -14,7 +14,7 @@ window.$docsify = {
   mergeNavbar: true,
   maxLevel: 4,
   subMaxLevel: 2,
-  name: 'Taio',
+  name: 'ONEX',
   search: {
     noData: {
       '/cn/': '没有结果',
@@ -28,7 +28,7 @@ window.$docsify = {
   },
   formatUpdated: '{MM}/{DD} {HH}:{mm}',
   plugins: [
-    EditOnGithubPlugin.create('https://github.com/cyanzhong/docs.taio.app/blob/master/docs/', null, path => {
+    EditOnGithubPlugin.create('https://github.com/bjdehang/docs.onexkit.com/blob/master/docs/', null, path => {
       if (path.indexOf('cn/') === 0) {
         return '在 GitHub 上编辑';
       } else {
