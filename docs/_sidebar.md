@@ -4,5 +4,6 @@
   - [Hello, OneTodo](OneTodo/intro.md)
 - Transparent Widget
   - [Hello, Transparent Widget](TransparentWidget/intro.md)
+  - [Tutorial](TransparentWidget/tutorial.md)
   - [Privacy Policy](TransparentWidget/privacy.md)
   - [Terms of Use](TransparentWidget/terms.md)
