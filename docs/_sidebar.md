@@ -1,5 +1,7 @@
 - Quick Start
   - [README](README.md)
+- OneWidget
+  - [Transparent](OneWidget/transparent.md)
 - OneTodo
   - [Hello, OneTodo](OneTodo/intro.md)
 - Transparent Widget
