@@ -1,5 +1,8 @@
 - Quick Start
   - [README](README.md)
+- OneDay
+  - [Privacy Policy](OneDay/privacy.md)
+  - [Terms of Use](OneDay/terms.md)
 - OneWidget
   - [Transparent](OneWidget/transparent.md)
 - OneTodo
