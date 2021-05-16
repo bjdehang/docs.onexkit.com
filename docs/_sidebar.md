@@ -3,6 +3,9 @@
 - OneDay
   - [Privacy Policy](OneDay/privacy.md)
   - [Terms of Use](OneDay/terms.md)
+- OneDay
+  - [Privacy Policy](OneList/privacy.md)
+  - [Terms of Use](OneList/terms.md)
 - OneWidget
   - [Transparent](OneWidget/transparent.md)
 - OneTodo
