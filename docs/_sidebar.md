@@ -6,10 +6,15 @@
 - OneDay
   - [Privacy Policy](OneList/privacy.md)
   - [Terms of Use](OneList/terms.md)
+- OneScreen
+  - [Privacy Policy](OneScreen/privacy.md)
+  - [Terms of Use](OneScreen/terms.md)
 - OneWidget
   - [Transparent](OneWidget/transparent.md)
 - OneTodo
   - [Hello, OneTodo](OneTodo/intro.md)
+  - [Privacy Policy](OneTodo/privacy.md)
+  - [Terms of Use](OneTodo/terms.md)
 - Transparent Widget
   - [Hello, Transparent Widget](TransparentWidget/intro.md)
   - [Tutorial](TransparentWidget/tutorial.md)
