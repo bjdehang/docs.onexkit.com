@@ -49,8 +49,8 @@ We pay close attention to our intellectual property protection. All content, ima
 You agree to use the Software and Services only for lawful purposes. We may, without incurring any liability to you, terminate access by you or suspend any access to all or part of the Software and Services, without notice, for any conduct by us, in our sole discretion, believes is in violation of any applicable law or this privacy policy, or is harmful to the interests of another user, a third-party, a sponsor, a licensor, a service provider, a merchant.
 
 # TRACK YOUR HEALTH DATA!
-OneWidget works with the Apple Health app so you can keep all your data in sync.
-Use OneWidget to log your activities, health info. It's so simple to show info on the HomeScreen Widget!
+Transparent Widget works with the Apple Health app so you can keep all your data in sync.
+Use Transparent Widget to log your activities, health info. It's so simple to show info on the HomeScreen Widget!
 You can individually choose which health stats you provide access to. All data is stored in the Apple Health app and remains on your device for your security and privacy.
 
 # Contact Us
