@@ -1,4 +1,4 @@
-This privacy policy is provided by Transparent Widget. We are committed to protect your privacy. You can learn from this privacy policy that how we may collect, use, share your information when you use the Software and Services. And regarding your information, we declare the rights and options available to you .If you do not agree to the terms and conditions in our privacy policy, you can stop to use the Software & Services.
+This privacy policy is provided by OneWidget. We are committed to protect your privacy. You can learn from this privacy policy that how we may collect, use, share your information when you use the Software and Services. And regarding your information, we declare the rights and options available to you .If you do not agree to the terms and conditions in our privacy policy, you can stop to use the Software & Services.
 We regularly examine and update the privacy policy, so you can check our latest privacy policy in time.
 
 # Information We Collect and Use
