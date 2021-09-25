@@ -3,7 +3,9 @@
 - OneDay
   - [Privacy Policy](OneDay/privacy.md)
   - [Terms of Use](OneDay/terms.md)
-- OneDay
+- OneClock
+  - [Screensaver](OneClock/screensaver.md)
+- OneList
   - [Privacy Policy](OneList/privacy.md)
   - [Terms of Use](OneList/terms.md)
 - OneScreen
