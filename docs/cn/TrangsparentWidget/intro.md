@@ -4,6 +4,6 @@
 
 邮箱: hi@onexkit.com
 
-微博:xDEHANG
+微博:陈大好Davis
 
-Twitter:xDEHANG
+Twitter:@onexdavis

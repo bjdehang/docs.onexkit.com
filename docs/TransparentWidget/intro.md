@@ -4,6 +4,6 @@ If you have any question or comment about Transparent Widget, you can contact us
 
 Email: hi@onexkit.com
 
-Twitter:xDEHANG
+Twitter:@onexdavis
 
-Weibo:xDEHANG
+Weibo:陈大好Davis

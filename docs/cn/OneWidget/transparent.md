@@ -30,6 +30,6 @@
 
 邮箱: hi@onexkit.com
 
-Twitter:xDEHANG
+Twitter:@onexdavis
 
-微博:xDEHANG
+微博:陈大好Davis
