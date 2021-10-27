@@ -22,3 +22,6 @@
   - [Tutorial](TransparentWidget/tutorial.md)
   - [Privacy Policy](TransparentWidget/privacy.md)
   - [Terms of Use](TransparentWidget/terms.md)
+- Hide Notch
+  - [Privacy Policy](HideNotch/privacy.md)
+  - [Terms of Use](HideNotch/terms.md)
