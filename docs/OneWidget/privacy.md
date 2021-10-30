@@ -4,7 +4,7 @@ We regularly examine and update the privacy policy, so you can check our latest 
 # Information We Collect and Use
 As you use the Software and Services, we may collect and store the following type of information:
 ## 1. Technical Information
-For improving and customizing the Software and Services, we collect certain technical information of your device, including without limitation: the type, name and version of your operating system and other software, ISP (Internet Service Provider), GPS (Global Position System), IP (Internet Protocol) address, identifier for anonymous users, device configuration and identifiers, ID for advertiser (Identifier for Advertisers used in Android, etc.), and the setting of Software and Services. 
+For improving and customizing the Software and Services, we collect certain technical information of your device, including without limitation: the type, name and version of your operating system and other software, ISP (Internet Service Provider), GPS (Global Position System), IP (Internet Protocol) address, identifier for anonymous users, device configuration and identifiers, ID for advertiser (Identifier for Advertisers used in Android, etc.), and the setting of Software and Services.
 ## 2. Usage and Social Networks Information
 For providing you personalized content and services, including through the delivery of targeted interest-based advertisements from us or our partners; and improving the quality and operation of the Software and Services, we collect certain information regarding your use and interaction of your device, including the Software and Services and other software. Such as when and how you use the internet browser and internet search of applications, how you view and use the offerings and advertisements, and response to them. Your interactions on social networks through the Software and Services.
 ## 3. Registration and Support Related Information （If Applicable）
@@ -54,5 +54,4 @@ Use OneWidget to log your activities, health info. It's so simple to show info o
 You can individually choose which health stats you provide access to. All data is stored in the Apple Health app and remains on your device for your security and privacy.
 
 # Contact Us
-If you have any question or comment about this Policy, you can contact us by email: hi@onexkit.com 
- 
+If you have any question or comment about this Policy, you can contact us by email: hi@onexkit.com

@@ -13,6 +13,8 @@
   - [Terms of Use](OneScreen/terms.md)
 - OneWidget
   - [Transparent](OneWidget/transparent.md)
+  - [Privacy Policy](OneWidget/privacy.md)
+  - [Terms of Use](OneWidget/terms.md)
 - OneTodo
   - [Hello, OneTodo](OneTodo/intro.md)
   - [Privacy Policy](OneTodo/privacy.md)
